@@ -1,4 +1,5 @@
 # This laravel blog is created as a learning project
+It does not include a complete authentication and authorization.
 
 # Requirements
 1. PHP 8 and above
